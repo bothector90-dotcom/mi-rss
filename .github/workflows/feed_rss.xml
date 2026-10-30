@@ -26,6 +26,7 @@
                 <guid>https://www.washingtonpost.com/technology/2026/10/13/space-jellyfish-cloud-visible-sky-after-spacex-launch/</guid>
                 <description> Nube en forma de medusa tras lanzamiento de SpaceX  </description>
                 <pubDate> 13 Oct 2026 08:00:00 GMT</pubDate>
-            </item> 
+            </item>
+            <atom:link href="www.technews.com" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
